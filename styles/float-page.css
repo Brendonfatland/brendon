@@ -10,3 +10,13 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.nubula1{
+	width: 275px;
+  height: 275px;
+  float: left;
+}
+.nubula2{
+	width: 275px;
+  height: 275px;
+  float: right;
+}
